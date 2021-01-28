@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/001-springboot-first/001-springboot-first.iml" filepath="$PROJECT_DIR$/001-springboot-first/001-springboot-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-springboot-learn/001-springboot-learn.iml" filepath="$PROJECT_DIR$/001-springboot-learn/001-springboot-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
 </project>
