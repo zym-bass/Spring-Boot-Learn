@@ -3,8 +3,7 @@ package com.yiming.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//SpringBoot项目启动入口类
-@SpringBootApplication//springboot核心注解，主要用于开启spring自动配置
+@SpringBootApplication
 public class Application {
 
 	public static void main(String[] args) {
