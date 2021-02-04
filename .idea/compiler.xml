@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="002-springboot-springmvc" />
+        <module name="003-springboot-contex-tpath" />
         <module name="001-springboot-learn" />
         <module name="001-spirngboot-learn" />
-        <module name="002-springboot-springmvc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="001-spring-boot" target="1.5" />
       <module name="001-springboot-learn" target="1.8" />
       <module name="002-springboot-springmvc" target="1.8" />
+      <module name="003-springboot-contex-tpath" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +25,7 @@
       <module name="001-spirngboot-learn" options="-parameters" />
       <module name="001-springboot-learn" options="-parameters" />
       <module name="002-springboot-springmvc" options="-parameters" />
+      <module name="003-springboot-contex-tpath" options="-parameters" />
     </option>
   </component>
 </project>

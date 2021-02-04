@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/001-springboot-learn/001-springboot-learn.iml" filepath="$PROJECT_DIR$/001-springboot-learn/001-springboot-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" filepath="$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
