@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="007-springboot-multi-environment-yml" />
         <module name="006-spirngboot-multi-environment" />
         <module name="002-springboot-springmvc" />
         <module name="004-spirngboot-properties-yml-yaml" />
@@ -26,6 +27,7 @@
       <module name="005-springboot-properties-yml" target="1.8" />
       <module name="006-spirngboot-multi-environment" target="1.8" />
       <module name="006-springboot-multi-environment" target="1.8" />
+      <module name="007-springboot-multi-environment-yml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +40,7 @@
       <module name="005-springboot-properties-yml" options="-parameters" />
       <module name="006-spirngboot-multi-environment" options="-parameters" />
       <module name="006-springboot-multi-environment" options="-parameters" />
+      <module name="007-springboot-multi-environment-yml" options="-parameters" />
     </option>
   </component>
 </project>
