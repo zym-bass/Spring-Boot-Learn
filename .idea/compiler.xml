@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="002-springboot-springmvc" />
         <module name="004-spirngboot-properties-yml-yaml" />
+        <module name="005-springboot-properties-yml" />
         <module name="003-springboot-contex-tpath" />
         <module name="001-springboot-learn" />
         <module name="001-spirngboot-learn" />
@@ -20,6 +21,7 @@
       <module name="002-springboot-springmvc" target="1.8" />
       <module name="003-springboot-contex-tpath" target="1.8" />
       <module name="004-spirngboot-properties-yml-yaml" target="1.8" />
+      <module name="005-springboot-properties-yml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,6 +31,7 @@
       <module name="002-springboot-springmvc" options="-parameters" />
       <module name="003-springboot-contex-tpath" options="-parameters" />
       <module name="004-spirngboot-properties-yml-yaml" options="-parameters" />
+      <module name="005-springboot-properties-yml" options="-parameters" />
     </option>
   </component>
 </project>

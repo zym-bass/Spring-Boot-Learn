@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" filepath="$PROJECT_DIR$/002-springboot-springmvc/002-springboot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" filepath="$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-spirngboot-properties-yml-yaml/004-spirngboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-spirngboot-properties-yml-yaml/004-spirngboot-properties-yml-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-springboot-properties-yml/005-springboot-properties-yml.iml" filepath="$PROJECT_DIR$/005-springboot-properties-yml/005-springboot-properties-yml.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
