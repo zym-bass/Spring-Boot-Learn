@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/006-springboot-multi-environment/pom.xml" />
         <option value="$PROJECT_DIR$/007-springboot-multi-environment-yml/pom.xml" />
         <option value="$PROJECT_DIR$/008-spirngboot-custom-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/009-spirngboot-custom-configuration/pom.xml" />
       </list>
     </option>
   </component>

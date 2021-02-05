@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/007-springboot-multi-environment-yml/007-springboot-multi-environment-yml.iml" filepath="$PROJECT_DIR$/007-springboot-multi-environment-yml/007-springboot-multi-environment-yml.iml" />
       <module fileurl="file://$PROJECT_DIR$/008-spirngboot-custom-configuration/008-spirngboot-custom-configuration.iml" filepath="$PROJECT_DIR$/008-spirngboot-custom-configuration/008-spirngboot-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" filepath="$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
