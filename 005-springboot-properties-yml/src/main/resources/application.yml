@@ -1,4 +1,4 @@
 service:
-   port: 8083
-   servlet:
-      context-path: /spring
+  port: 8083
+  servlet:
+    context-path: /spring

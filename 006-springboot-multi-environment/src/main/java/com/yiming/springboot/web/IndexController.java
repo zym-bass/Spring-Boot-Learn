@@ -1,4 +1,4 @@
-package com.yiming.springboot.controller;
+package com.yiming.springboot.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class IndexController {
 
+
     @RequestMapping(value = "/say")
-    public @ResponseBody
-    String say() {
+    public @ResponseBody String say(){
         return "hello springboot";
     }
 }
