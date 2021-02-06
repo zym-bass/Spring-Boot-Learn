@@ -7,11 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" filepath="$PROJECT_DIR$/003-springboot-contex-tpath/003-springboot-contex-tpath.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-spirngboot-properties-yml-yaml/004-spirngboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-spirngboot-properties-yml-yaml/004-spirngboot-properties-yml-yaml.iml" />
       <module fileurl="file://$PROJECT_DIR$/005-springboot-properties-yml/005-springboot-properties-yml.iml" filepath="$PROJECT_DIR$/005-springboot-properties-yml/005-springboot-properties-yml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/005-springboot-properties-yml/006-spirngboot-multi-environment.iml" filepath="$PROJECT_DIR$/005-springboot-properties-yml/006-spirngboot-multi-environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/007-springboot-multi-environment-yml/007-springboot-multi-environment-yml.iml" filepath="$PROJECT_DIR$/007-springboot-multi-environment-yml/007-springboot-multi-environment-yml.iml" />
       <module fileurl="file://$PROJECT_DIR$/008-spirngboot-custom-configuration/008-spirngboot-custom-configuration.iml" filepath="$PROJECT_DIR$/008-spirngboot-custom-configuration/008-spirngboot-custom-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" filepath="$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" filepath="$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>

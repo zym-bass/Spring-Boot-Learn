@@ -7,11 +7,11 @@
         <option value="$PROJECT_DIR$/002-springboot-springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/003-springboot-contex-tpath/pom.xml" />
         <option value="$PROJECT_DIR$/004-spirngboot-properties-yml-yaml/pom.xml" />
-        <option value="$PROJECT_DIR$/005-springboot-properties-yml/pom.xml" />
         <option value="$PROJECT_DIR$/006-springboot-multi-environment/pom.xml" />
         <option value="$PROJECT_DIR$/007-springboot-multi-environment-yml/pom.xml" />
         <option value="$PROJECT_DIR$/008-spirngboot-custom-configuration/pom.xml" />
         <option value="$PROJECT_DIR$/009-spirngboot-custom-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-jsp/pom.xml" />
       </list>
     </option>
   </component>
