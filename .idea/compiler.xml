@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="006-springboot-multi-environment" />
+        <module name="011-springboot-mybatis" />
+        <module name="005-springboot-properties-yml" />
+        <module name="003-springboot-contex-tpath" />
+        <module name="001-springboot-learn" />
+        <module name="001-spirngboot-learn" />
         <module name="007-springboot-multi-environment-yml" />
         <module name="009-spirngboot-custom-configuration" />
         <module name="010-springboot-jsp" />
         <module name="002-springboot-springmvc" />
         <module name="004-spirngboot-properties-yml-yaml" />
-        <module name="006-springboot-multi-environment" />
-        <module name="011-springboot-mybatis" />
-        <module name="005-springboot-properties-yml" />
+        <module name="012-springboot-mybatis02" />
         <module name="008-spirngboot-custom-configuration" />
-        <module name="003-springboot-contex-tpath" />
-        <module name="001-springboot-learn" />
-        <module name="001-spirngboot-learn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="009-spirngboot-custom-configuration" target="1.8" />
       <module name="010-springboot-jsp" target="1.8" />
       <module name="011-springboot-mybatis" target="1.8" />
+      <module name="012-springboot-mybatis02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -49,6 +51,7 @@
       <module name="009-spirngboot-custom-configuration" options="-parameters" />
       <module name="010-springboot-jsp" options="-parameters" />
       <module name="011-springboot-mybatis" options="-parameters" />
+      <module name="012-springboot-mybatis02" options="-parameters" />
     </option>
   </component>
 </project>

@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" filepath="$PROJECT_DIR$/009-spirngboot-custom-configuration/009-spirngboot-custom-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" filepath="$PROJECT_DIR$/010-springboot-jsp/010-springboot-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/011-springboot-mybatis/011-springboot-mybatis.iml" filepath="$PROJECT_DIR$/011-springboot-mybatis/011-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-springboot-mybatis02/012-springboot-mybatis02.iml" filepath="$PROJECT_DIR$/012-springboot-mybatis02/012-springboot-mybatis02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
