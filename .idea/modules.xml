@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/012-springboot-mybatis02/012-springboot-mybatis02.iml" filepath="$PROJECT_DIR$/012-springboot-mybatis02/012-springboot-mybatis02.iml" />
       <module fileurl="file://$PROJECT_DIR$/013-springboot-springmvc/013-springboot-springmvc.iml" filepath="$PROJECT_DIR$/013-springboot-springmvc/013-springboot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" filepath="$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" filepath="$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
