@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/013-springboot-springmvc/013-springboot-springmvc.iml" filepath="$PROJECT_DIR$/013-springboot-springmvc/013-springboot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" filepath="$PROJECT_DIR$/014-springboot-restful/014-springboot-restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" filepath="$PROJECT_DIR$/015-springboot-redis/015-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo-interface/016-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo-interface/016-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-dubbo-provider/017-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/017-springboot-dubbo-provider/017-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018-springboot-dubbo-consumer/018-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/018-springboot-dubbo-consumer/018-springboot-dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
