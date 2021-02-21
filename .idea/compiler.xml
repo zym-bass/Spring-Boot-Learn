@@ -9,7 +9,9 @@
         <module name="006-springboot-multi-environment" />
         <module name="011-springboot-mybatis" />
         <module name="015-springboot-redis" />
+        <module name="019-springboot-interface" />
         <module name="018-springboot-dubbo-consumer" />
+        <module name="021-springboot-consumer" />
         <module name="005-springboot-properties-yml" />
         <module name="003-springboot-contex-tpath" />
         <module name="001-springboot-learn" />
@@ -17,6 +19,7 @@
         <module name="007-springboot-multi-environment-yml" />
         <module name="009-spirngboot-custom-configuration" />
         <module name="010-springboot-jsp" />
+        <module name="020-springboot-provider" />
         <module name="016-springboot-dubbo-interface" />
         <module name="017-springboot-dubbo-provider" />
         <module name="002-springboot-springmvc" />
@@ -47,6 +50,9 @@
       <module name="016-springboot-dubbo-interface" target="1.5" />
       <module name="017-springboot-dubbo-provider" target="1.8" />
       <module name="018-springboot-dubbo-consumer" target="1.8" />
+      <module name="019-springboot-interface" target="1.5" />
+      <module name="020-springboot-provider" target="1.8" />
+      <module name="021-springboot-consumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -69,6 +75,9 @@
       <module name="015-springboot-redis" options="-parameters" />
       <module name="017-springboot-dubbo-provider" options="-parameters" />
       <module name="018-springboot-dubbo-consumer" options="-parameters" />
+      <module name="019-springboot-interface" options="" />
+      <module name="020-springboot-provider" options="-parameters" />
+      <module name="021-springboot-consumer" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,0 +1,7 @@
+com\yiming\springboot\entity\StudentExample$Criterion.class
+com\yiming\springboot\entity\StudentExample.class
+com\yiming\springboot\mapper\StudentMapper.class
+com\yiming\springboot\entity\Student.class
+com\yiming\springboot\entity\StudentExample$Criteria.class
+com\yiming\springboot\entity\StudentExample$GeneratedCriteria.class
+com\yiming\springboot\service\StudentService.class

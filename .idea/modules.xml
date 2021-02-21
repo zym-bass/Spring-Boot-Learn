@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/016-springboot-dubbo-interface/016-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/016-springboot-dubbo-interface/016-springboot-dubbo-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/017-springboot-dubbo-provider/017-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/017-springboot-dubbo-provider/017-springboot-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/018-springboot-dubbo-consumer/018-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/018-springboot-dubbo-consumer/018-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019-springboot-interface/019-springboot-interface.iml" filepath="$PROJECT_DIR$/019-springboot-interface/019-springboot-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020-springboot-provider/020-springboot-provider.iml" filepath="$PROJECT_DIR$/020-springboot-provider/020-springboot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021-springboot-consumer/021-springboot-consumer.iml" filepath="$PROJECT_DIR$/021-springboot-consumer/021-springboot-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
