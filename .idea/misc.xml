@@ -27,6 +27,7 @@
         <option value="$PROJECT_DIR$/029-springboot-modify-logo/pom.xml" />
         <option value="$PROJECT_DIR$/030-springboot-interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/031-springboot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/032-springboot-filter-1/pom.xml" />
       </list>
     </option>
   </component>
