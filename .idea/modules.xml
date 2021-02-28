@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/022-springboot-close-logo/022-springboot-close-logo.iml" filepath="$PROJECT_DIR$/022-springboot-close-logo/022-springboot-close-logo.iml" />
       <module fileurl="file://$PROJECT_DIR$/029-springboot-modify-logo/029-springboot-modify-logo.iml" filepath="$PROJECT_DIR$/029-springboot-modify-logo/029-springboot-modify-logo.iml" />
       <module fileurl="file://$PROJECT_DIR$/030-springboot-interceptor/030-springboot-interceptor.iml" filepath="$PROJECT_DIR$/030-springboot-interceptor/030-springboot-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/031-springboot-servlet/031-springboot-servlet.iml" filepath="$PROJECT_DIR$/031-springboot-servlet/031-springboot-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>

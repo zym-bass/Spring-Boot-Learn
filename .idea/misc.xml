@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/022-springboot-close-logo/pom.xml" />
         <option value="$PROJECT_DIR$/029-springboot-modify-logo/pom.xml" />
         <option value="$PROJECT_DIR$/030-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/031-springboot-servlet/pom.xml" />
       </list>
     </option>
   </component>
