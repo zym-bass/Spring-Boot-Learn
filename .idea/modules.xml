@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/031-springboot-servlet/031-springboot-servlet.iml" filepath="$PROJECT_DIR$/031-springboot-servlet/031-springboot-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/032-springboot-filter-1/032-springboot-filter-1.iml" filepath="$PROJECT_DIR$/032-springboot-filter-1/032-springboot-filter-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/033-springboot-filter-2/033-springboot-filter-2.iml" filepath="$PROJECT_DIR$/033-springboot-filter-2/033-springboot-filter-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/034-springboot-character-encoding-1/034-springboot-character-encoding-1.iml" filepath="$PROJECT_DIR$/034-springboot-character-encoding-1/034-springboot-character-encoding-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
