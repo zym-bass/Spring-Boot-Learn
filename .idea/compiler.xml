@@ -12,6 +12,7 @@
         <module name="018-springboot-dubbo-consumer" />
         <module name="005-springboot-properties-yml" />
         <module name="001-springboot-learn" />
+        <module name="033-springboot-filter-2" />
         <module name="010-springboot-jsp" />
         <module name="020-springboot-provider" />
         <module name="030-springboot-interceptor" />
@@ -63,6 +64,7 @@
       <module name="030-springboot-interceptor" target="1.8" />
       <module name="031-springboot-servlet" target="1.8" />
       <module name="032-springboot-filter-1" target="1.8" />
+      <module name="033-springboot-filter-2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -93,6 +95,7 @@
       <module name="030-springboot-interceptor" options="-parameters" />
       <module name="031-springboot-servlet" options="-parameters" />
       <module name="032-springboot-filter-1" options="-parameters" />
+      <module name="033-springboot-filter-2" options="-parameters" />
     </option>
   </component>
 </project>
