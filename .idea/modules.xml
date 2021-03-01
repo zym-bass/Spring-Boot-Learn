@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/034-springboot-character-encoding-1/034-springboot-character-encoding-1.iml" filepath="$PROJECT_DIR$/034-springboot-character-encoding-1/034-springboot-character-encoding-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/035-springboot-charater-encoding-2/035-springboot-charater-encoding-2.iml" filepath="$PROJECT_DIR$/035-springboot-charater-encoding-2/035-springboot-charater-encoding-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/035-springboot-war/035-springboot-war.iml" filepath="$PROJECT_DIR$/035-springboot-war/035-springboot-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/036-springboot-logback/036-springboot-logback.iml" filepath="$PROJECT_DIR$/036-springboot-logback/036-springboot-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
