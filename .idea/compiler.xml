@@ -12,6 +12,7 @@
         <module name="019-springboot-interface" />
         <module name="018-springboot-dubbo-consumer" />
         <module name="005-springboot-properties-yml" />
+        <module name="037-springboot-thymeleaf-first" />
         <module name="034-springboot-character-encoding-1" />
         <module name="001-springboot-learn" />
         <module name="033-springboot-filter-2" />
@@ -74,6 +75,7 @@
       <module name="035-springboot-charater-encoding-2" target="1.8" />
       <module name="035-springboot-war" target="1.8" />
       <module name="036-springboot-logback" target="1.8" />
+      <module name="037-springboot-thymeleaf-first" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -109,6 +111,7 @@
       <module name="035-springboot-charater-encoding-2" options="-parameters" />
       <module name="035-springboot-war" options="-parameters" />
       <module name="036-springboot-logback" options="-parameters" />
+      <module name="037-springboot-thymeleaf-first" options="-parameters" />
     </option>
   </component>
 </project>

@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/035-springboot-charater-encoding-2/035-springboot-charater-encoding-2.iml" filepath="$PROJECT_DIR$/035-springboot-charater-encoding-2/035-springboot-charater-encoding-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/035-springboot-war/035-springboot-war.iml" filepath="$PROJECT_DIR$/035-springboot-war/035-springboot-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/036-springboot-logback/036-springboot-logback.iml" filepath="$PROJECT_DIR$/036-springboot-logback/036-springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/037-springboot-thymeleaf-first/037-springboot-thymeleaf-first.iml" filepath="$PROJECT_DIR$/037-springboot-thymeleaf-first/037-springboot-thymeleaf-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Learn.iml" />
     </modules>
   </component>
