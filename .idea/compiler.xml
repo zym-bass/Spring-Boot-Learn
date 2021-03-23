@@ -22,6 +22,7 @@
         <module name="016-springboot-dubbo-interface" />
         <module name="017-springboot-dubbo-provider" />
         <module name="004-spirngboot-properties-yml-yaml" />
+        <module name="000-text" />
         <module name="014-springboot-restful" />
         <module name="008-spirngboot-custom-configuration" />
         <module name="013-springboot-springmvc" />
@@ -44,6 +45,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="000-text" target="1.8" />
       <module name="001-springboot-learn" target="1.8" />
       <module name="002-springboot-springmvc" target="1.8" />
       <module name="003-springboot-contex-tpath" target="1.8" />
@@ -82,6 +84,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="000-text" options="-parameters" />
       <module name="001-springboot-learn" options="-parameters" />
       <module name="002-springboot-springmvc" options="-parameters" />
       <module name="003-springboot-contex-tpath" options="-parameters" />

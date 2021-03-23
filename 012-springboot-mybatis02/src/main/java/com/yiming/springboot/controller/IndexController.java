@@ -17,5 +17,6 @@ public class IndexController {
     public @ResponseBody Object queryByIdStudent(Integer id){
         Student student =studentService.queryByIdStudent(id);
         return student;
+
     }
 }
